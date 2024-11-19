@@ -7,11 +7,13 @@ Habrá correcciones simples de valoraciones o incluso ortográficas para practic
 Habrá cosas muy interesantes de Bash o no tanto.
 
 # Esta compuesto por 3 directorios principales
+
 en cada uno de ellos crearemos archivos .md  donde se explica y se valora 
 el script .  despues de aportar nuestra valoración hacemos la media y aplicamos la valoracion al final del nombre del archivo como sigue   xxxxx1_3-5_3.md   donde 1 es la dificultad 3-5(es 3,5) y es el ahorro de tiempo y 3 es lo problematico que puede llegar a ser
 
 
 # Si queremos añadir nuevos scripts
+
 los añadimos en la carpeta que le corresponda ya sea comandos básicos con funciones o programas en caso de no existir una carpeta para ese programa crea una nueva y mete el archivo dentro. Despues sigue la estructura de los otros archivos
 
 ###########################
@@ -39,13 +41,16 @@ Posibles problemas = 2 + =
  ###################
 
  # si queremos valorar un archivo 
+
  Ponemos las puntuaciones y  cambiamos la media, después
  aplicamos en el nombre como explico antes
 
  # Una vez subas tu git 
+
  3 personas deben de aceptarlo como valido (esto nos obliga a aceptar lo de nuestros compañeros y evita gits malintencionados ya que es un repositorio abierto)
 
  # Esto no solo sirve para bash sino también como uso de GIT
+
  Y es por ello que con simplemente poner la valoración de un script ya puedes hacer un git. add git commit ...  Para 
  empezar entras y haces un git pull origin main para poner al día lo que hay.  Si alguien puso algo te saldra que hay cosas para verificar. si entiendes lo que es lo verificas en el caso de scripts y en el caso de modificaciones leves como valoraciones, cambios en el .md para que se vea mas bonito o simplemente una corrección ortográfica porque habrá errores.
  Lo verificas al entrar (no se como se hace todavía) el que vea como funciona puede explicarlo yo todavía no he podido hacer eso.
