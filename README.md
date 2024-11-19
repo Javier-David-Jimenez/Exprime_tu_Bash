@@ -68,6 +68,6 @@ que aprender a salir de esos problemas)
 
 # cuando vayais a subir los cambios a git
 
-tendreis que hacer un pull request creo el que consiga hacerlo que explique como aqui. Yo al ser administrador me deja hacer push. Pero creo que a vosotros no os dejara.  Esto es por las politicas de uso del repositorio que como es abierto a todo el mundo, y he puesto la verificación por 3 personas.
+tendreis que hacer un pull request creo el que consiga hacerlo que explique como aqui. Yo al ser administrador me deja hacer push. Pero creo que a vosotros no os dejara.  Esto es por las politicas de uso del repositorio que como es abierto a todo el mundo puede acceder,  he puesto la verificación por 3 personas.(igual debería de bajar este número)
 
 
