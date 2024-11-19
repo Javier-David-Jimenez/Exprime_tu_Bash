@@ -50,6 +50,8 @@ podeis poner ejemplos muchos
 
 
 
+Aunque el uso de xclip es mínimo, se me ocurrio crearlo para usarlo con el
+
 
  # ########################
  

@@ -1,5 +1,10 @@
 # Exprime_tu_Bash
-Repositorio colaborativo, para compartir usos y trucos de bash
+
+BASH es como tu coche te lleva mas rápido a los sitios pero si no tienes cuidado puedes tener un accidente
+
+Repositorio colaborativo, para compartir usos y trucos de bash mientras practicamos GIT
+Habrá correcciones simples de valoraciones o incluso ortográficas para practicar uso de GIT
+Habrá cosas muy interesantes de Bash o no tanto.
 
 # Esta compuesto por 3 directorios principales
 en cada uno de ellos crearemos archivos .md  donde se explica y se valora 
@@ -15,8 +20,7 @@ script a poner alias o lo que sea
 
 ########################
 
-Explicacion de que hace el codigo y utilidades que tiene
-
+Explicacion: Que hace el codigo y usos ue tiene
  
  #########################
  
