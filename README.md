@@ -39,11 +39,11 @@ Posibles problemas = 2 + =
  ###################
 
  # si queremos valorar un archivo 
- Ponemoslas puntuaciones y  cambiamos la media, después
+ Ponemos las puntuaciones y  cambiamos la media, después
  aplicamos en el nombre como explico antes
 
  # Una vez subas tu git 
- 3 personas deben de aceptarlo como valido (esto nos obliga a trabajar y evita gits malintencionados ya que es un repositorio abierto)
+ 3 personas deben de aceptarlo como valido (esto nos obliga a aceptar lo de nuestros compañeros y evita gits malintencionados ya que es un repositorio abierto)
 
  # Esto no solo sirve para bash sino también como uso de GIT
  Y es por ello que con simplemente poner la valoración de un script ya puedes hacer un git. add git commit ...  Para 
