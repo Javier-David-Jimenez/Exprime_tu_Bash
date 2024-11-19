@@ -4,8 +4,9 @@ alias cp_html_basico='cp -r ~/plantillas/html/basico/* .'
 
 # #######################
 
-Este codigo es sencillo y nos copia un directorio predefinido en el
-directorio en el que nos encontramos
+Este codigo es sencillo y nos copia un directorio predefinido en eldirectorio en el que nos encontramos.
+
+Es un alias sencillo ponle un nombre que te vayas a acordar y la direccion de donde quieres que copie los directorios y archivos
 
 Nos sirve para tener plantillas preparadas, por ejemplo de html o css
 En este caso copia la estructura de archivos completa de una web con sus
