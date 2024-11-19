@@ -25,7 +25,7 @@ Este código puede resultarte complejo o quizas no:   (Que alguien explique lo q
 
  # ########################
  
-problemas puedes poner en el portapapeles más o menso de lo que quieras si no pones bien los comandos
+problemas puedes poner en el portapapeles más o menos de lo que quieras si no pones bien los comandos
 
 
 # #####################

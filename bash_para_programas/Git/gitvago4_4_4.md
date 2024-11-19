@@ -13,6 +13,9 @@ Este código puede resultarte complejo o quizas no:   (Que alguien explique lo q
 
 
  # ########################
+
+ PROBLEMA: este código no funcionara correctamente en este directorio tendreis que hacer algún cambio y generar un script nuevo 
+ poe ejemplo una variante debajo de la actual
  
 Problemas, Este alias es complejo y debes de mirar en que rama y directorios estas (te lo dice el propio script) después ya haces el commit. si no estas donde debez cancela el scrip   control+C creo que era o dale aintro sin poner nada
 
