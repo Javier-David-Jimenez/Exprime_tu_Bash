@@ -1,0 +1,45 @@
+# ##########################
+
+
+# Funciones IR A ...................
+function ir_a() {
+    # Si la variable IRJS_PATH no está definida, da un error
+    if [ -z "$IR_A_PATH" ]; then
+        echo "Error: No se ha definido una ruta base con el alias."
+        return 1
+    fi
+
+    # Si se pasa un argumento, añade ese subdirectorio a la ruta base
+    if [ -n "$1" ]; then
+        cd "$IR_A_PATH/$1"
+    else
+        # Si no hay argumento, ve a la ruta base
+        cd "$IR_A_PATH"
+    fi
+}
+
+
+# Alias que define la ruta base y llama automáticamente a irajs
+
+alias ir_js='export IR_A_PATH=~/projects/workspace/core-javascript/ejercicios && ir_a'
+alias ir_html='export IR_A_PATH=~/projects/workspace/html/practicas && ir_a'
+
+
+# #######################
+
+Este código puede resultarte complejo o quizas no:   (Que alguien explique lo que hace)
+
+
+
+
+ # ########################
+ 
+Problemas, ya os iran saliendo al poner no no bien la direccion
+
+
+# #####################
+Valoracion de 1 a 5
+
+Dificultad = 4 + = 4
+Utilidad ahorro de tiempo = 4 + = 4
+Posibles problemas = 2 + = 2
