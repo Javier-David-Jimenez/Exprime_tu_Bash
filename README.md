@@ -38,7 +38,7 @@ Posibles problemas = 2 + =
 
  ###################
 
- # si queremos vaalorar un archivo 
+ # si queremos valorar un archivo 
  Ponemoslas puntuaciones y  cambiamos la media, después
  aplicamos en el nombre como explico antes
 
