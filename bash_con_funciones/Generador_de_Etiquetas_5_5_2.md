@@ -51,12 +51,11 @@ podeis poner ejemplos muchos
 
 
 
-
-
  # ########################
  
 es complejo y da problemas si no dejas los espacion apropiados 1 entre
 los parametros o no pones los atributos entre comillas
+si se usa bien es ¡¡¡BRUTAL!!!
 
 
 # #####################
