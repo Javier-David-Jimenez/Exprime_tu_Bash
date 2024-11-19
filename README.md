@@ -46,11 +46,9 @@ Posibles problemas = 2 + =
  3 personas deben de aceptarlo como valido (esto nos obliga a trabajar y evita gits malintencionados ya que es un repositorio abierto)
 
  # Esto no solo sirve para bash sino también como uso de GIT
- Y es por ello que con simplemente poner la valoración de un 
- script ya puedes hacer un git add git commit git push.  Para 
- empezar entras y haces un git pull origin main para poner al día lo que hay.  Si alguien puso algo te saldra que hay cosas para verificar. si entiendes lo que es lo verificas en el caso de scripts y en el caso de modificaciones leves como valoraciones, cambios en el .md para que se vea mas bonito
- o simplemente una corrección ortográfica porque habra errores.
- Lo verificas y al qguien que explique como sale y funciona porque yo no lo he visto todavia.
+ Y es por ello que con simplemente poner la valoración de un script ya puedes hacer un git. add git commit ...  Para 
+ empezar entras y haces un git pull origin main para poner al día lo que hay.  Si alguien puso algo te saldra que hay cosas para verificar. si entiendes lo que es lo verificas en el caso de scripts y en el caso de modificaciones leves como valoraciones, cambios en el .md para que se vea mas bonito o simplemente una corrección ortográfica porque habrá errores.
+ Lo verificas al entrar (no se como se hace todavía) el que vea como funciona puede explicarlo yo todavía no he podido hacer eso.
 
 
  Todas estos pequeños cambios nos permitiran practicar git sin tener que hacer mucho trabajo que es lo que nos interesa aquí,
@@ -59,7 +57,7 @@ Posibles problemas = 2 + =
 
 Por ejemplo no hagas todas las valoraciones de una tacada, haz 1 o dos en dos movimientos (se que parece que no es una gran aportación y no lo es en si, pero nos permitira usar GIT, de vez en cuando, para ver cambios)
 
-Se daran colisiones porque si una persona pone una valoración en un script y otra esta haciendo lo mismo al mismo tiempo el que acabe despues deberia de tener un problema y que no le deje mergear. (Tened en cuenta que esto se puede quedar para tener el problema entre 2 o mas personas, es decir hacemos varios el pull uno modifica las valoraciones de un script y el resto cuando vayana  mergear  tendran un problema porque no tenian lo que haya puesto el que subio primero sus cambios
+Se daran colisiones porque si una persona pone una valoración en un script y otra esta haciendo lo mismo al mismo tiempo el que acabe despues deberia de tener un problema y que no le deje mergear. (Tened en cuenta que esto se puede provocar voluntariamente quedaquedandor para tener el problema entre 2 o mas personas, es decir hacemos varios el pull, uno modifica las valoraciones de un script y el resto cuando vayamos a  mergear  tendremos un problema porque no tenian lo que haya modificado el que subio primero sus cambios.
 Vamos que podemos provocar estos problemas a proposito para 
 que aprender a salir de esos problemas)
 
